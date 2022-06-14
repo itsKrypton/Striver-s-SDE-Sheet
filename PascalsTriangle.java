@@ -22,13 +22,7 @@ public class PascalsTriangle {
         {
             for(int j=0;j<=i;j++)
             {
-                if(j==0)
-                {
-                    output.get(i).add(1);
-                    continue;
-                }
-
-                if(j==i)
+                if(j==0 || j==i)
                 {
                     output.get(i).add(1);
                     continue;
