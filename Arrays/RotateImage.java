@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 //https://leetcode.com/problems/rotate-image/solution/
 
 public class RotateImage {
