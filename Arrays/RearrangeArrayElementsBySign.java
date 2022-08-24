@@ -1,5 +1,3 @@
-import java.lang.reflect.AnnotatedArrayType;
-
 //https://leetcode.com/problems/rearrange-array-elements-by-sign/discuss/2428989/Java-or-Comments-or-Easy-or-O(N)-Time
 
 public class RearrangeArrayElementsBySign {
